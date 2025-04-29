@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI, IoT and Software Solution projects
 - 📫 How to reach me 
     - Email - mahee.gamage@gmail.com
-    - LinkedIn - https://www.linkedin.com/in/mahee-gamage-262404132/
+    - LinkedIn - https://www.linkedin.com/in/mahee-gamage/
 
 <!---
 MaheeGamage/MaheeGamage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
