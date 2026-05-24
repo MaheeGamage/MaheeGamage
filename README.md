@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaheeGamage
 - 👀 I’m interested in building Solutions that solves problems
 - 🌱 I’m a life-long learner
-- 💞️ I’m looking to collaborate on AI, IoT and Software Solution projects
+- 💞️ I’m looking to collaborate on AI, Quantum and Software Solution projects
 - 📫 How to reach me 
     - Email - mahee.gamage@gmail.com
     - LinkedIn - https://www.linkedin.com/in/mahee-gamage/
